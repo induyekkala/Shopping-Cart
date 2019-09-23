@@ -1,0 +1,18 @@
+ArticleId	Name		
+1			Pen			
+2			Pencil		
+3			Box			
+4			Eraser		
+5			Bottle		
+6			Sharpener	
+7			Toys	    
+8			Shoes		
+9			c.pencil	
+10			crayons		
+	  
+	  
+	    
+	  
+	  
+	 
+	  
